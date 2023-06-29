@@ -2,5 +2,3 @@ let jokes=["Debugging is like being a detective in a crime movie where you are a
 let a=Math.floor(Math.random() * 3);
 console.log(a);
 jk.innerHTML=jokes[a];
-generateBtn.addEventListener("click", acquireJoke);
-// console.log(jokes[a]);
